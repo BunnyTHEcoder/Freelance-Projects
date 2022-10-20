@@ -1,4 +1,4 @@
-# Freelance-Projects
+
 Promoted car model stack /// 
 Write a class to keep track of the monthly promoted models and their prices with a stack data structure. The
 class needs to support:
